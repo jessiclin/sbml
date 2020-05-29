@@ -1,4 +1,6 @@
-# sbml
+# SBML
+
+SBML is a programming language that is a hyprid of python and SML. The parser generator PLY - Python Lex and Yacc - was used to specify and implement the lanugage 
 
 # Run Instructions 
 > python sbml.py [text_file]
